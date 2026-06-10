@@ -60,7 +60,7 @@ cerebras-cloud-sdk = {version = "^1.12.1", optional = true}
 google-cloud-aiplatform = {version = "^1.71.1", extras = ["tokenization"], optional = true}
 google-generativeai = {version = "^0.8.3", optional = true}
 together = {version = "^1.2.12", optional = true}
-torch = {version = "^2.5.1", optional = true}
+torch = {version = "^2.7.1", optional = true}
 transformers = {version = "^4.46.2", optional = true}
 
 [tool.poetry.group.dev.dependencies]
